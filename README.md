@@ -7,6 +7,14 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
+## How to Use
+
+
+
+1. **Set Up the Database**.
+2. **Run the Queries**: Use the SQL queries in the `lib_managment_sys.sql` file to perform the analysis.
+3. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
+
 ![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 
@@ -337,12 +345,5 @@ GROUP BY e.emp_name, b.branch_id, b.manger_id, b.branch_address,b.contact_no;
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
-## How to Use
 
 
-
-1. **Set Up the Database**: Execute the SQL scripts in the `database_setup.sql` file to create and populate the database.
-2. **Run the Queries**: Use the SQL queries in the `analysis_queries.sql` file to perform the analysis.
-3. **Explore and Modify**: Customize the queries as needed to explore different aspects of the data or answer additional questions.
-
-## Author - Adham mohammed mohammed labeb
